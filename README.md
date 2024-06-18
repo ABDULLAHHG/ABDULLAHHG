@@ -2,6 +2,10 @@ I am Abdullah <br>
 Age : 20 <br> 
 A sophomore studying Computer Science at the University of Basra.<br>
 
+Work as : 
+ * Data Scientist
+ * Data analyst
+ 
 My hobbies are: 
  * Mathamatics
  * Statistics
