@@ -1,6 +1,6 @@
 I am Abdullah <br> 
 Age : 21 <br> 
-A sophomore studying Computer Science at the University of Basra.<br>
+A junior studying Computer Science at the University of Basra.<br>
 
 Work as : 
  * Data Scientist
@@ -12,9 +12,9 @@ My hobbies are:
  * Statistics
  * Programming 
 
-My CV Created in 2024/11/30 <br>
+My CV Created on 2024/11/30 <br>
 link :
 https://github.com/ABDULLAHHG/ABDULLAHHG/blob/main/Abdullah%20Abdullatif%20Abdullamir.pdf
 
-My CV Created in 2023/8/22 <br>
+My CV Created on 2023/8/22 <br>
 link : https://github.com/ABDULLAHHG/ABDULLAHHG/blob/main/Abdullah%20Abdullatif%20Abdullameer.pdf
