@@ -21,3 +21,11 @@ My hobbies are:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ABDULLAHHG&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🛠 &nbsp;Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/></a>
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/></a>
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
+</p>
