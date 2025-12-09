@@ -28,4 +28,5 @@ My hobbies are:
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/></a>
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/></a>
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
+<img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin"/></a>
 </p>
