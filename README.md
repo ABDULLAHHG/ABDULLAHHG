@@ -1,6 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3>👨🏻‍💻 &nbsp;About Me</h3>
-  <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <h3>👨🏻‍💻 About Me</h3>
+      </td>
+      <td align="right">
+        <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 I am Abdullah <br> 
