@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 I am Abdullah <br> 
 Age : 22 <br> 
