@@ -4,8 +4,6 @@
        src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
 </h3>
 
-<br>
-
 I am Abdullah <br> 
 Age : 22 <br> 
 A junior studying Computer Science at the University of Basra.<br>
