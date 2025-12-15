@@ -1,8 +1,8 @@
-<p align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3>👨🏻‍💻 &nbsp;About Me</h3>
   <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
-### 👨🏻‍💻 &nbsp;About Me
 I am Abdullah <br> 
 Age : 22 <br> 
 A junior studying Computer Science at the University of Basra.<br>
