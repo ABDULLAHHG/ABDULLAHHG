@@ -1,15 +1,9 @@
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="100%">
-    <tr>
-      <td align="left" valign="middle">
-        <h3>👨🏻‍💻 About Me</h3>
-      </td>
-      <td align="right" valign="middle">
-        <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <b>👨🏻‍💻 About Me</b>
+  <span align="right">
+    <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
+  </span>
+</p>
 
 I am Abdullah <br> 
 Age : 22 <br> 
