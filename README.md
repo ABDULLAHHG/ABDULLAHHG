@@ -1,10 +1,10 @@
 <div align="center">
-  <table cellpadding="10" width="100%">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
-      <td align="left">
+      <td align="left" valign="middle">
         <h3>👨🏻‍💻 About Me</h3>
       </td>
-      <td align="right">
+      <td align="right" valign="middle">
         <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
       </td>
     </tr>
