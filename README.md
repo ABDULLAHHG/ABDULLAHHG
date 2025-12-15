@@ -1,8 +1,7 @@
-<p align="left">
+<p align="left" style="width:100%;">
   <b>👨🏻‍💻 About Me</b>
-  <span align="right">
-    <img src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
-  </span>
+  <img align="right"
+       src="https://komarev.com/ghpvc/?username=ABDULLAHHG&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 I am Abdullah <br> 
